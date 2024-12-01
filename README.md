@@ -1,2 +1,2 @@
-# Elite-Advantage
+# Elite-Advantage Project
 Author - Swetha Muraleedharan
